@@ -5,7 +5,7 @@
 Below you will find some information about me.
 
 ## Who am I?
-- 🙋‍♂️ I'm Renan, I'm from aug/1999 and I live in Brazil, Santa Catarina.
+- 🙋‍♂️ I'm from aug/1999 and I live in Brazil, Santa Catarina.
 - 🔭 I am currently working at Wanke S.A. as a Full IT Analyst. I've been there since nov/2018.
 - 🌱 At the moment, my main interest is front end development and I'm doing several specializations in this area to keep myself updated in addition to maintaining the best practices in the market.
 - 🔗 Here is my website if you want to check it out: https://renan-rcp.vercel.app/ (note: under development so may have some bugs).
