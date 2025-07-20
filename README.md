@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Renan Corrêa Pedroso
+# 👋 Hi, I'm Renan
 
 I'm a web developer with experience since 2018, focused on building modern, responsive, and user-centered applications. I specialize in **frontend development** using technologies like **React**, **Next.js**, **TypeScript**, and **TailwindCSS**, but I also have experience working across the stack with **Node.js**, **NestJS**, and relational databases such as **PostgreSQL** and **SQL Server**.
 
