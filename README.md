@@ -1,39 +1,29 @@
-# Welcome!
+# 👋 Hi, I'm Renan Corrêa Pedroso
 
-### I'm Renan and this is my professional profile on Github!
+I'm a web developer with experience since 2018, focused on building modern, responsive, and user-centered applications. I specialize in **frontend development** using technologies like **React**, **Next.js**, **TypeScript**, and **TailwindCSS**, but I also have experience working across the stack with **Node.js**, **NestJS**, and relational databases such as **PostgreSQL** and **SQL Server**.
 
-Below you will find some information about me.
+🔧 **Technologies & Tools:**
 
-## Who am I?
-- 🙋‍♂️ I'm from aug/1999 and I live in Brazil, Santa Catarina.
-- 🔭 I am currently working at Wanke S.A. as a Full IT Analyst. I've been there since nov/2018.
-- 🌱 At the moment, my main interest is front end development and I'm doing several specializations in this area to keep myself updated in addition to maintaining the best practices in the market.
-- 🔗 Here is my website if you want to check it out: https://renan-rcp.vercel.app/ (note: under development so may have some bugs).
+- Frontend: React, Next.js, TypeScript, TailwindCSS, JavaScript  
+- Backend: Node.js, NestJS, REST API development  
+- Databases: PostgreSQL, SQL Server, MySQL  
+- BI & Data: Power BI, SQL modeling and performance optimization  
 
-## Main Tools and Technologies
+📌 **About Me:**
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60" title="NextJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" title="ReactJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60" title="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" title="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" title="SQLServer"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="60" height="60" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript"/>
-<div>
+- Working in IT since 2018, delivering efficient and maintainable solutions to real business problems  
+- Self-taught, proactive, and always learning new tools and practices  
+- Passionate about clean code, performance, and user experience  
+- Open to frontend or fullstack opportunities, depending on the team's needs and the project's context
 
-## Contacts
-<div>
-  <a href="https://instagram.com/ren_cpe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:renan.rcp16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renanrcp16" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "https://api.whatsapp.com/send?phone=5547988662321"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+🎯 **Career Goals:**
 
-## GitHub Stats
-<div>
-  <a href="https://github.com/renanrcp16">
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrcp16&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I'm looking for opportunities where I can grow professionally, contribute to meaningful products, and collaborate with teams that value quality, creativity, and innovation. My goal is to continuously improve and make a positive impact through technology.
+
+---
+
+📫 **Get in Touch:**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/renanrcp16)  
+- 🌐 [Website](https://renan-rcp.vercel.app)  
+- 📬 renanrcp16@gmail.com
