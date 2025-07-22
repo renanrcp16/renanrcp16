@@ -26,4 +26,4 @@ I'm looking for opportunities where I can grow professionally, contribute to mea
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/renanrcp16)  
 - 🌐 [Website](https://renan-rcp.vercel.app)  
-- 📬 renanrcp16@gmail.com
+- 📬 renan.rcp16@gmail.com
