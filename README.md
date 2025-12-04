@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Renan
+# 👋 Hi, I'm Renan 
 
-I'm a web developer with experience since 2018, focused on building modern, responsive, and user-centered applications. I specialize in **frontend development** using technologies like **React**, **Next.js**, **TypeScript**, and **TailwindCSS**, but I also have experience working across the stack with **Node.js**, **NestJS**, and relational databases such as **PostgreSQL** and **SQL Server**.
+I'm a web developer with experience since 2018, working across the stack to build modern, efficient, and user-centered applications.  
+I work mainly with **JavaScript, TypeScript, React, Next.js, Node.js**, and **SQL databases**, creating internal tools, integrations, and automations that solve real business problems.
+
+I'm proactive, self-taught, and always exploring new technologies to improve my work and deliver scalable, maintainable solutions.  
+I'm open to both **frontend** and **full stack** roles, depending on the project and team needs.
 
 🔧 **Technologies & Tools:**
 
