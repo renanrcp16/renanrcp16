@@ -4,4 +4,4 @@ Frontend Engineer focused on React, Next.js, and TypeScript, building modern web
 
 I mainly work on frontend development, with complementary backend experience using Node.js, Prisma, NestJS, and SQL databases.
 
-Currently looking for remote international opportunities.
+Currently exploring international remote opportunities and Frontend Engineer roles in Spain that offer relocation opportunities.
